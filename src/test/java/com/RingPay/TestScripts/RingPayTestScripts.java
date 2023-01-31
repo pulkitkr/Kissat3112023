@@ -15,7 +15,7 @@ import com.extent.ExtentReporter;
 import com.propertyfilereader.PropertyFileReader;
 import com.utility.Utilities;
 
-//Comment
+
 public class RingPayTestScripts{
 
 	private com.business.RingPay.RingPayBusinessLogic ringPayBusiness;
